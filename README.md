@@ -1,7 +1,7 @@
-#Author: Michelle Frugia
-#GitHub username: frugiam
-#Date: 02/07/2024
-#Descrtiption: Project 5a
+# Author: Michelle Frugia
+# GitHub username: frugiam
+# Date: 02/07/2024
+# Description: Project 2c
 
 def multiply(num, n):
     # if n == 1 then return num --> base condition
